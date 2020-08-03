@@ -1,6 +1,8 @@
-### Hi there 👋
-### :rocket: :rocket: You just entered in my github profile :rocket: :rocket:
+# Hi there 👋
+# :rocket: :rocket: You just entered in my github profile :rocket: :rocket:
 
+##  :camel: Introduction
+  :octocat::octocat: I am sabyh a nerdy and boring/lazy coder that doesn't like to go out. Mostly like to spend time on laptop reading books, learning some cool stuff, solving coding problems or watching some tech related conference. Thats it not much in life except this !! 
 <!--
 **Sabyh11/Sabyh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
