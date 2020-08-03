@@ -2,9 +2,10 @@
 ## :rocket: :rocket: You just hit my github profile link :rocket: :rocket:
 
 ##  :ghost: Introduction :ghost:
-  :bowtie::bowtie: I am ** Sabyh ** a nerdy and boring/lazy coder that doesn't like to go out. Mostly like to spend time on laptop reading books, learning some cool stuff, solving coding problems or watching some tech related conference. Thats it not much in life except these !! :bowtie::bowtie:
+  :bowtie::bowtie: I am **Sabyh** a nerdy and boring/lazy coder that doesn't like to go out. Mostly like to spend time on laptop reading books, learning some cool stuff, solving coding problems or watching some tech related conference. Thats it not much in life except these !! :bowtie::bowtie:
 
-##  
+##  Interests
+  :cat::cat: I am interested in anything that is related to computer science :joy::joy:. But let me state some of them machine learning, computer graphics, AR/VR, Maths, Algorithms and Data structure and big data :cat::cat:  
 <!--
 **Sabyh11/Sabyh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
