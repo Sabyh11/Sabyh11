@@ -6,7 +6,15 @@
 
 ##  :sun_with_face::sun_with_face: Interests :sun_with_face::sun_with_face:
   :cat::cat: I am interested in anything that is related to computer science :joy::joy:. But let me state some of them machine learning, computer graphics, AR/VR, Maths, Algorithms, Data structure, big data and the list goes on.... :cat::cat:  
+
+## ⚡⚡ Certifications ⚡⚡
+  😄😄 I am working on a lot of certifications right now. My targets right now are Google and Microsoft 😄😄
+![GitHub Logo](https://images.youracclaim.com/size/110x110/images/2a15d440-edbe-44a2-890f-0a0caf7e1442/AWS-Developer-Associate.png) 
+
+
 <!--
+https://images.youracclaim.com/size/110x110/images/db3d8b5c-8ecc-429f-8f40-c1706b98d729/Oracle-Certification-badge_OC-Specialist.png
+https://images.youracclaim.com/size/110x110/images/e2f31cc4-a86f-4d6f-b11a-2b6facdb7aa0/Oracle-Certification-badge_OC-Associate600X600.png
 **Sabyh11/Sabyh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
