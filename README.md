@@ -17,8 +17,8 @@
 ![GitHub Logo](https://images.youracclaim.com/size/110x110/images/e2f31cc4-a86f-4d6f-b11a-2b6facdb7aa0/Oracle-Certification-badge_OC-Associate600X600.png) 
 
 ### :globe_with_meridians::globe_with_meridians: Links :globe_with_meridians::globe_with_meridians:
-[Qwik Lab profile](https://www.qwiklabs.com/public_profiles/a744bae9-ae95-4819-833c-2149caf31180)
-[Acclaim profile](https://www.youracclaim.com/users/sabhi-ahmed)
+:dolphin::dolphin: [Qwik Lab profile](https://www.qwiklabs.com/public_profiles/a744bae9-ae95-4819-833c-2149caf31180) :dolphin::dolphin:
+:cloud: :cloud: [Acclaim profile](https://www.youracclaim.com/users/sabhi-ahmed) :cloud::cloud:
 
 <!--
 
