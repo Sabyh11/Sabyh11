@@ -9,6 +9,9 @@
 
 ## ⚡⚡ Certifications ⚡⚡
   😄😄 I am working on a lot of certifications right now. My targets right now are Google and Microsoft 😄😄
+  
+  
+  
 ![GitHub Logo](https://images.youracclaim.com/size/110x110/images/2a15d440-edbe-44a2-890f-0a0caf7e1442/AWS-Developer-Associate.png) 
 ![GitHub Logo](https://images.youracclaim.com/size/110x110/images/db3d8b5c-8ecc-429f-8f40-c1706b98d729/Oracle-Certification-badge_OC-Specialist.png) 
 ![GitHub Logo](https://images.youracclaim.com/size/110x110/images/e2f31cc4-a86f-4d6f-b11a-2b6facdb7aa0/Oracle-Certification-badge_OC-Associate600X600.png) 
