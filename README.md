@@ -21,4 +21,4 @@
   :cloud: :cloud: [Acclaim profile](https://www.youracclaim.com/users/sabhi-ahmed) :cloud::cloud:
 
 ## 📫📫 How to reach me 📫📫:
-  :snowman::snowman: [Linkedin](www.linkedin.com/in/sabyh) :snowman::snowman: Tho I prefer whats app :stuck_out_tongue::stuck_out_tongue:
+  :snowman::snowman: [Acclaim profile](https://www.linkedin.com/in/sabyh) :snowman::snowman: Tho I prefer whats app :stuck_out_tongue::stuck_out_tongue:
