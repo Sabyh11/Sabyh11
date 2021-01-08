@@ -2,7 +2,7 @@
 ## :rocket: :rocket: You just hit my github profile link :rocket: :rocket:
 
 ##  :ghost: Introduction :ghost:
-  :bowtie::bowtie: I am **Sabyh** a nerdy and boring/lazy coder that doesn't like to go out. Mostly like to spend time on laptop reading books, learning some cool stuff, solving coding problems or watching some tech related conference. Thats it not much in life except these !! :bowtie::bowtie:
+  :bowtie::bowtie: I am **Sabhi Ahmed** a nerdy and boring/lazy coder that doesn't like to go out. Mostly like to spend time on laptop reading books, learning some cool stuff, solving coding problems or watching some tech related conference. Thats it not much in life except these !! :bowtie::bowtie:
 
 ##  :sun_with_face::sun_with_face: Interests :sun_with_face::sun_with_face:
   :cat::cat: I am interested in anything that is related to computer science :joy::joy:. But let me state some of them machine learning, computer graphics, AR/VR, Maths, Algorithms, Data structure, big data and the list goes on.... :cat::cat:  
@@ -21,4 +21,4 @@
   :cloud: :cloud: [Acclaim profile](https://www.youracclaim.com/users/sabhi-ahmed) :cloud::cloud:
 
 ## 📫📫 How to reach me 📫📫:
-  :snowman::snowman: [Acclaim profile](https://www.linkedin.com/in/sabyh) :snowman::snowman: Tho I prefer whats app :stuck_out_tongue::stuck_out_tongue:
+  :snowman::snowman: [Linkedin profile](https://www.linkedin.com/in/sabyh) :snowman::snowman: Tho I prefer whats app :stuck_out_tongue::stuck_out_tongue:
